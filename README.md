@@ -1,4 +1,4 @@
-# PalitraqFarm
+# qFarm
 
 fork GCFarm
 
